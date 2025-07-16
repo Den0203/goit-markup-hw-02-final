@@ -185,6 +185,14 @@ span {
 .footer-content {
   background: #2e2f42;
 }
+.logo-accent {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
 .footer-logo {
   font-weight: 700;
   font-size: 18px;
