@@ -13,10 +13,7 @@ a {
   text-decoration: none;
 }
 /* Header */
-.header {
-}
-.header-nav {
-}
+
 span {
   font-weight: 700;
   font-size: 18px;
@@ -35,8 +32,6 @@ span {
   color: #2e2f42;
   text-decoration: none;
 }
-.logo-accent {
-}
 
 .header-list {
   font-weight: 500;
@@ -45,8 +40,7 @@ span {
   color: #2e2f42;
   list-style: none;
 }
-.header-list-item {
-}
+
 .header-list-link {
   text-shadow: 0px 2px 0 rgba(0, 0, 0, 0.25);
 }
@@ -70,12 +64,8 @@ span {
 .address-list {
   list-style: none;
 }
-.address-list-item {
-}
 
 /* Main */
-.main-content {
-}
 
 /* Hero Section */
 .section-hero {
@@ -99,8 +89,7 @@ span {
 }
 
 /* Highlights Section */
-.highlights {
-}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -117,8 +106,7 @@ span {
 .highlights-list {
   list-style: none;
 }
-.highlights-item {
-}
+
 .highlights-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -155,8 +143,7 @@ span {
   text-align: center;
   color: #2e2f42;
 }
-.team-image {
-}
+
 .team-item-title {
   text-shadow: 0 4px 0 rgba(0, 0, 0, 0.25);
 }
@@ -168,8 +155,7 @@ span {
 }
 
 /* Portfolio Section */
-.portfolio {
-}
+
 .portfolio-title {
   font-size: 36px;
   line-height: 1.11;
@@ -181,10 +167,7 @@ span {
 .portfolio-list {
   list-style: none;
 }
-.portfolio-item {
-}
-.portfolio-image {
-}
+
 .portfolio-item-title {
   font-size: 20px;
   line-height: 1.2;
