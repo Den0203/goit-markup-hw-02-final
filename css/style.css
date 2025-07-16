@@ -46,7 +46,6 @@ span {
 }
 .header-list-link:hover,
 .header-list-link:focus {
-  color: #404bbf;
   text-decoration: underline;
 }
 
